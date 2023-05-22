@@ -1,0 +1,19 @@
+.input-part {
+  display: flex;
+  flex-direction: column;
+}
+
+.header {
+  text-align: center;
+  margin: 10px 0;
+  h2 {
+    font-size: 25px !important;
+    padding: 20px !important;
+  }
+}
+
+.link-part {
+  margin: 14px 0;
+  display: flex;
+  justify-content: space-between;
+}
